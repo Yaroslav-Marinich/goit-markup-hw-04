@@ -72,9 +72,9 @@ body {
   padding-bottom: 94px;
 }
 
-a:visited {
+/* a:visited {
   color: var(--primary-text-color);
-}
+} */
 
 /*---------------- head -------------------*/
 .header {
